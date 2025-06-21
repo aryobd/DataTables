@@ -1,0 +1,2 @@
+https://cdn.datatables.net/releases.html
+https://cdn.datatables.net/2.1.8/
